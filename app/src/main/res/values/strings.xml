@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Resto</string>
+    <string name="tab_text_1">Вільні столи</string>
+    <string name="tab_text_2">Заброньовані</string>
+</resources>

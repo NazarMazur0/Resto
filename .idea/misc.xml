@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/edu/java/Resto/app/src/main/res/drawable/booked_button_background.xml" value="0.3921875" />
+        <entry key="..\:/edu/java/Resto/app/src/main/res/drawable/ic_launcher_background.xml" value="0.5776041666666667" />
+        <entry key="..\:/edu/java/Resto/app/src/main/res/drawable/popup_backroubd.xml" value="0.3921875" />
+        <entry key="..\:/edu/java/Resto/app/src/main/res/drawable/table_button.xml" value="0.5776041666666667" />
+        <entry key="..\:/edu/java/Resto/app/src/main/res/drawable/unbooked_button_background.xml" value="0.34427083333333336" />
+        <entry key="..\:/edu/java/Resto/app/src/main/res/layout/activity_main.xml" value="0.4936594202898551" />
+        <entry key="..\:/edu/java/Resto/app/src/main/res/layout/booked_fragment_layout.xml" value="0.375" />
+        <entry key="..\:/edu/java/Resto/app/src/main/res/layout/booking_fragment_layout.xml" value="0.31302083333333336" />
+        <entry key="..\:/edu/java/Resto/app/src/main/res/layout/button.xml" value="0.32916666666666666" />
+        <entry key="..\:/edu/java/Resto/app/src/main/res/layout/fragment_main.xml" value="0.4936594202898551" />
+        <entry key="..\:/edu/java/Resto/app/src/main/res/layout/popup_window.xml" value="0.4936594202898551" />
+        <entry key="..\:/edu/java/Resto/app/src/main/res/layout/popup_window_add.xml" value="0.5614583333333333" />
+        <entry key="..\:/edu/java/Resto/app/src/main/res/layout/popup_window_book.xml" value="0.5614583333333333" />
+        <entry key="..\:/edu/java/Resto/app/src/main/res/layout/popup_window_booked.xml" value="0.5614583333333333" />
+        <entry key="..\:/edu/java/Resto/app/src/main/res/layout/starting_pop_up.xml" value="0.5604166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="jbr-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

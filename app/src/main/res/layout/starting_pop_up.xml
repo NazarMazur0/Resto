@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                                   xmlns:app="http://schemas.android.com/apk/res-auto"
+                                                   xmlns:tools="http://schemas.android.com/tools"
+                                                   android:layout_width="400dp"
+                                                   android:layout_height="400dp"
+                                                   android:background="@drawable/popup_backroubd">
+
+    <Button
+            android:text="Продовжити"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content" android:id="@+id/ok"
+            android:backgroundTint="#99cf8a"
+            app:layout_constraintTop_toBottomOf="@+id/tablesCount"
+            android:layout_marginTop="40dp" app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="130dp" android:layout_marginEnd="131dp"
+            app:layout_constraintEnd_toEndOf="parent"/>
+    <TextView
+            android:text="Схоже що столів ще немає , введіть кількість столів:"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:id="@+id/textView3"
+            android:textAlignment="center"
+            app:layout_constraintBottom_toTopOf="@+id/tablesCount" android:layout_marginBottom="40dp"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintEnd_toEndOf="parent"/>
+    <EditText
+            android:layout_width="112dp"
+            android:layout_height="44dp"
+            android:inputType="number"
+            android:ems="10"
+            android:id="@+id/tablesCount"
+            app:layout_constraintStart_toStartOf="parent" android:layout_marginStart="151dp"
+            android:layout_marginEnd="152dp" app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" android:layout_marginTop="148dp"
+            app:layout_constraintHorizontal_bias="0.466"/>
+</androidx.constraintlayout.widget.ConstraintLayout>
